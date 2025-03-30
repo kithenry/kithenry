@@ -1,12 +1,15 @@
 ## Hi there 👋
+- I am Keith Henry Nambale. Fourth year Computer Engineering student at [Eastern Mediterranean University](https://www.emu.edu.tr/en).
+- I am enthusiastic about programming and how the vast amount of possibilities that there are for someone that is good at the craft. 
+- I do some web development. Find a portfolio website I am working on right [here](kithenry.github.io)
+- My web programming relies on react and bootstrap for the front end , and python django for the backend
 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a [visual path finding simulator in C++ and Python](https://github.com/kithenry/Pathfinding-Simulator)
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning C++ and python
 - 👯 I’m looking to collaborate on python automation projects, c++ beginner robotics projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about python automation
 - 📫 How to reach me:
       - Email: kithstack@gmail.com
