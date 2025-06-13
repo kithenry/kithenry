@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a [visual path finding simulator in C++ and Python](https://github.com/kithenry/Pathfinding-Simulator)
+- 🔭 I’m currently working on a [visual path finding simulator in C++ and Python](https://github.com/kithenry/C-Path-Finder-Visualizer)
 - 🌱 I’m currently learning C++ and python
 - 📫 How to reach me:
       - Email: kithstack@gmail.com
