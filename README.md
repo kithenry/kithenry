@@ -25,5 +25,5 @@ OS: Arch Linux (daily driver since ~2025 June — no regrets)
 Editor: Emacs (Org mode is my second brain)  
 Shell: zsh 
 Infra: Docker, Postgres services  
-Langs: Python, Bash, Elisp (for Neovim/Emacs), C++ (learning deliberately)  
+Langs: Python, Bash, Elisp (for Emacs configs), C++ (learning deliberately)  
 Data: CSV/JSON → SQL (for personal analytics)
