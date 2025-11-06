@@ -1,8 +1,8 @@
 
 <!-- 
-  Hi! I'm Keith — a self-taught systems thinker, builder, and mentor.
+  Hi! I'm Keith — a self-taught systems thinker, builder, and breaker.. or.. tinkerer.
   This profile is a living interface to my digital workshop.
-  It's currently AI-Gen.. will make it my own soon.
+ 
 -->
 
 ### 🐧 Linux | 🛠️ Self-Hosting | 📝 Programming
