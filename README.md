@@ -2,11 +2,12 @@
 <!-- 
   Hi! I'm Keith — a self-taught systems thinker, builder, and mentor.
   This profile is a living interface to my digital workshop.
+  It's currently AI-Gen.. will make it my own soon.
 -->
 
-### 🐧 Linux | 🛠️ Self-Hosting | 📝 Org-Driven Workflows  
-I live in the terminal (`zsh` + `tmux`), breathe in Org mode, and thrive on Arch’s rolling cadence.  
-Not just a user—I build layers *on top* of the stack: custom tooling, offline-first systems, and commitment scaffolds.
+### 🐧 Linux | 🛠️ Self-Hosting | 📝 Programming
+I crib in the terminal (`zsh` + `tmux`), emacs is my best friend, and Arch.  
+I like to build stuff. If I have a problem, most of them usually technical, I am willing to put in all it takes to realise the solution.
 
 ---
 
