@@ -15,7 +15,7 @@ I like to build stuff. If I have a problem, most of them usually technical, I am
 - 🎥 Building a self-hosted **media learning system** (video + timestamped notes via Org)  
 - 🧠 Prototyping a personal chatbot for conversation-aware reflection & habit synthesis  
 - 📊 Structuring life data: time, promises, finances — all parseable, all queryable  
-- 📺 Interests*: automation, directed AI, Linux
+- 📺 Interests*: Automation, AI , Linux, Networks
 
 ---
 
@@ -26,4 +26,4 @@ Editor: Emacs (Org mode is my second brain)
 Shell: zsh 
 Infra: Docker, Postgres services  
 Langs: Python, Bash, Elisp (for Neovim/Emacs), C++ (learning deliberately)  
-Data: CSV/JSON → SQLite → DuckDB (for personal analytics)
+Data: CSV/JSON → SQL (for personal analytics)
