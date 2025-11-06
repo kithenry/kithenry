@@ -1,14 +1,28 @@
-## Hi there 👋
-- I am Keith Henry Nambale. Fourth year Computer Engineering student at [Eastern Mediterranean University](https://www.emu.edu.tr/en).
-- I am enthusiastic about programming and how vast the amount of possibilities that there are for someone that is good at it. 
-- I do some web development.
-- My web programming relies on react and bootstrap for the front end , and python django for the backend
 
+<!-- 
+  Hi! I'm Keith — a self-taught systems thinker, builder, and mentor.
+  This profile is a living interface to my digital workshop.
+-->
 
-Here are some ideas to get you started:
+### 🐧 Linux | 🛠️ Self-Hosting | 📝 Org-Driven Workflows  
+I live in the terminal (`zsh` + `tmux`), breathe in Org mode, and thrive on Arch’s rolling cadence.  
+Not just a user—I build layers *on top* of the stack: custom tooling, offline-first systems, and commitment scaffolds.
 
-- 🔭 I’m currently working on a [visual path finding simulator in C++ and Python](https://github.com/kithenry/C-Path-Finder-Visualizer)
-- 🌱 I’m currently learning C++ and python
-- 📫 How to reach me:
-      - Email: kithstack@gmail.com
+---
 
+### 🔧 Current Focus  
+- 🎥 Building a self-hosted **media learning system** (video + timestamped notes via Org)  
+- 🧠 Prototyping a personal chatbot for conversation-aware reflection & habit synthesis  
+- 📊 Structuring life data: time, promises, finances — all parseable, all queryable  
+- 📺 Interests*: automation, directed AI, Linux
+
+---
+
+### 🛠️ Core Stack  
+```text
+OS: Arch Linux (daily driver since ~2025 June — no regrets)  
+Editor: Emacs (Org mode is my second brain)  
+Shell: zsh 
+Infra: Docker, Postgres services  
+Langs: Python, Bash, Elisp (for Neovim/Emacs), C++ (learning deliberately)  
+Data: CSV/JSON → SQLite → DuckDB (for personal analytics)
